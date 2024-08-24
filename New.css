@@ -1,0 +1,57 @@
+body{
+    
+    background-color: blanchedalmond;
+}
+.contain{
+    align-content: center;
+}
+.toda{
+    height: 900px;
+    width: 1500px;
+    background-color: blue;
+    z-index: 20px;
+    position:absolute;
+}
+
+.min{
+    height: 700px;
+    width: 1200px;
+    background-color:aquamarine;
+    z-index:40px;
+    position:absolute;
+}
+
+.clas{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 500px;
+    width: 1000px;
+    background-color:blueviolet;
+    z-index: 60px;
+    position:absolute;
+}
+
+.num{
+    height: 200px;
+    width: 50px;
+    background-color:azure;
+}
+
+.Num1{
+    height: 150px;
+    width: 50px;
+    background-color:orange
+}
+
+.Num2{
+    height: 100px;
+    width: 50px;
+    background-color:aqua;
+}
+
+.Num3{
+    height: 80px;
+    width: 50px;
+    background-color:black;
+}
